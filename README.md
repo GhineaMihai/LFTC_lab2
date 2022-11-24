@@ -13,7 +13,6 @@ lex lexical_analyzer.l
 gcc lex.yy.c
 ./a.out problem.txt
 ```
-
 ![Project](Symbol.png)
 
 ![Project](Pif.png)
