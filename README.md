@@ -16,4 +16,4 @@ gcc lex.yy.c
 
 ![Project](Symbol.png)
 
-![Project](PIF.png)
+![Project](Pif.png)
