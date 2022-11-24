@@ -14,6 +14,6 @@ gcc lex.yy.c
 ./a.out problem.txt
 ```
 
-[Project](Symbol.png)
+![Project](Symbol.png)
 
-[Project](PIF.png)
+![Project](PIF.png)
