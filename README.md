@@ -7,3 +7,12 @@ The scanner input will be a text file containing the source program, and will pr
 - PIF - Program Internal Form
 
 - ST - Symbol Table
+
+```
+lex lexical_analyzer.l
+gcc lex.yy.c
+./a.out problem.txt
+```
+
+[Project](Symbol.png)
+[Project](PIF.png)
